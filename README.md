@@ -83,9 +83,7 @@ Deployed using GitHub Pages.
 👥 Team Contributions
 
 - Vaishnavi – GitHub setup, Git workflow, deployment, documentation
-- Member 2 – Homepage development
-- Member 3 – Donation module development
-- Member 4 – Volunteer module development and testing
+- Likhita – Homepage development
 
 🚀 Future Enhancements
 
